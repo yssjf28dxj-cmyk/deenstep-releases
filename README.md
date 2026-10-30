@@ -6,16 +6,18 @@
 
 DeenStep помогает постепенно приучаться к ходьбе и учиться небольшими шагами. Здесь опубликованы тестовые APK для Android.
 
-**Версия 0.13.2 опубликована 30 октября 2026.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.13.2/DeenStep-Test-0.13.2.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.13.2).
+**Версия 0.13.3 опубликована 30 октября 2026.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.13.3/DeenStep-Test-0.13.3.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.13.3).
 
-В 0.13.2 добавлены системные сигналы таймера и кнопка «Проверить вибрацию» в настройках. Проверка не меняет прогулку и учитывает настройки вибрации уведомлений телефона.
+В 0.13.3 вес из первой анкеты сразу учитывается в «Моём пути» как отправная точка. В настройках можно отдельно посмотреть дни 1–40 на примерах; настоящий профиль и прогресс сохраняются.
+
+В приложении есть системные сигналы таймера и кнопка «Проверить вибрацию» в настройках. Проверка не меняет прогулку и учитывает настройки вибрации уведомлений телефона.
 
 В настройках появился локальный журнал технических ошибок с ручным сохранением TXT. Отчёт также можно сохранить при ошибке открытия приложения. Автоматической отправки отчётов нет.
 
 ### Как скачать и установить
 
 1. Открой раздел Releases на Android-устройстве и выбери нужную версию.
-2. В разделе Assets скачай файл `DeenStep-Test-0.13.2.apk`. Архивы «Source code» не являются приложением.
+2. В разделе Assets скачай файл `DeenStep-Test-0.13.3.apk`. Архивы «Source code» не являются приложением.
 3. Открой скачанный APK. Если Android попросит, разреши установку из используемого браузера или приложения «Файлы».
 4. Подтверди установку в системном окне Android.
 
@@ -34,16 +36,18 @@ DeenStep помогает постепенно приучаться к ходь�
 
 DeenStep helps you build a walking habit gradually and learn in small steps. This repository is for Android test APK downloads.
 
-**Version 0.13.2 was published on October 30, 2026.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.13.2/DeenStep-Test-0.13.2.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.13.2).
+**Version 0.13.3 was published on October 30, 2026.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.13.3/DeenStep-Test-0.13.3.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.13.3).
 
-Version 0.13.2 adds system timer vibration signals and a Test vibration button in Settings. The test does not change your walk and respects the phone notification vibration settings.
+In 0.13.3, the onboarding weight provides the starting point in My Path. Settings let you explore days 1–40 with example data while your real profile and progress stay saved.
+
+The app includes system timer vibration signals and a Test vibration button in Settings. The test does not change your walk and respects the phone notification vibration settings.
 
 Settings now include a local technical error journal with manual TXT export. A report can also be saved when the app cannot open. Reports are not sent automatically.
 
 ### Download and install
 
 1. Open Releases on your Android device and select the version.
-2. Under Assets, download `DeenStep-Test-0.13.2.apk`. “Source code” archives are not the app.
+2. Under Assets, download `DeenStep-Test-0.13.3.apk`. “Source code” archives are not the app.
 3. Open the downloaded APK. If Android asks, allow installation from the browser or Files app you are using.
 4. Confirm installation in the Android system dialog.
 
@@ -60,21 +64,21 @@ Downloading a public APK does not require a Google account, a GitHub account, or
 
 ## Published APK / Опубликованный APK
 
-These details identify the APK published in release v0.13.2. / Данные APK, опубликованного в версии v0.13.2.
+These details identify the APK published in release v0.13.3. / Данные APK, опубликованного в версии v0.13.3.
 
 | Field / Поле | Value / Значение |
 | --- | --- |
-| File / Файл | `DeenStep-Test-0.13.2.apk` |
-| Version name | `0.13.2-dev` |
-| Version code | `30` |
+| File / Файл | `DeenStep-Test-0.13.3.apk` |
+| Version name | `0.13.3-dev` |
+| Version code | `31` |
 | Application ID | `app.shag.walking_app.dev` |
 | Minimum Android | `7.0 (API 24)` |
-| Size / Размер | `53,413,281 bytes` |
+| Size / Размер | `53,756,545 bytes` |
 
 SHA-256:
 
 ```text
-9a5be59e00855fd24db2d03e8c5901746500a08667c8639ec22cec1269732b51
+b74b7fdc4341d3545eb8eb49bdcbf38bb061a5676113c6b75088e587376d913d
 ```
 
 The repository is reserved for public release information and Android binaries. App source code is maintained separately. Signing keys, user databases, and telemetry are not published here.
