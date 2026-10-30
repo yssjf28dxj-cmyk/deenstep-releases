@@ -6,12 +6,14 @@
 
 DeenStep помогает постепенно приучаться к ходьбе и учиться небольшими шагами. Здесь опубликованы тестовые APK для Android.
 
-**Версия 0.12.0 опубликована 30 октября 2026.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.12.0/DeenStep-Test-0.12.0.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.12.0).
+**Версия 0.13.0 опубликована 30 октября 2026.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.13.0/DeenStep-Test-0.13.0.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.13.0).
+
+В настройках появился локальный журнал технических ошибок с ручным сохранением TXT. Отчёт также можно сохранить при ошибке открытия приложения. Автоматической отправки отчётов нет.
 
 ### Как скачать и установить
 
 1. Открой раздел Releases на Android-устройстве и выбери нужную версию.
-2. В разделе Assets скачай файл `DeenStep-Test-0.12.0.apk`. Архивы «Source code» не являются приложением.
+2. В разделе Assets скачай файл `DeenStep-Test-0.13.0.apk`. Архивы «Source code» не являются приложением.
 3. Открой скачанный APK. Если Android попросит, разреши установку из используемого браузера или приложения «Файлы».
 4. Подтверди установку в системном окне Android.
 
@@ -30,12 +32,14 @@ DeenStep помогает постепенно приучаться к ходь�
 
 DeenStep helps you build a walking habit gradually and learn in small steps. This repository is for Android test APK downloads.
 
-**Version 0.12.0 was published on October 30, 2026.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.12.0/DeenStep-Test-0.12.0.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.12.0).
+**Version 0.13.0 was published on October 30, 2026.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.13.0/DeenStep-Test-0.13.0.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.13.0).
+
+Settings now include a local technical error journal with manual TXT export. A report can also be saved when the app cannot open. Reports are not sent automatically.
 
 ### Download and install
 
 1. Open Releases on your Android device and select the version.
-2. Under Assets, download `DeenStep-Test-0.12.0.apk`. “Source code” archives are not the app.
+2. Under Assets, download `DeenStep-Test-0.13.0.apk`. “Source code” archives are not the app.
 3. Open the downloaded APK. If Android asks, allow installation from the browser or Files app you are using.
 4. Confirm installation in the Android system dialog.
 
@@ -52,21 +56,21 @@ Downloading a public APK does not require a Google account, a GitHub account, or
 
 ## Published APK / Опубликованный APK
 
-These details identify the APK published in release v0.12.0. / Данные APK, опубликованного в версии v0.12.0.
+These details identify the APK published in release v0.13.0. / Данные APK, опубликованного в версии v0.13.0.
 
 | Field / Поле | Value / Значение |
 | --- | --- |
-| File / Файл | `DeenStep-Test-0.12.0.apk` |
-| Version name | `0.12.0-dev` |
-| Version code | `27` |
+| File / Файл | `DeenStep-Test-0.13.0.apk` |
+| Version name | `0.13.0-dev` |
+| Version code | `28` |
 | Application ID | `app.shag.walking_app.dev` |
 | Minimum Android | `7.0 (API 24)` |
-| Size / Размер | `52,884,869 bytes` |
+| Size / Размер | `53,412,145 bytes` |
 
 SHA-256:
 
 ```text
-1eebe74253309248c2e0d7582a904aee14311352a6bdedca6d4a8dcf2d45bbdb
+0eaaade066467bed64845f8a1ede89c8abb5386f86c3295c93340c099ccb212a
 ```
 
 The repository is reserved for public release information and Android binaries. App source code is maintained separately. Signing keys, user databases, and telemetry are not published here.
