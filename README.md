@@ -4,11 +4,11 @@
 
 ## Русский
 
-DeenStep помогает постепенно приучаться к ходьбе и учиться небольшими шагами. Здесь будут опубликованы тестовые APK для Android.
+DeenStep помогает постепенно приучаться к ходьбе и учиться небольшими шагами. Здесь опубликованы тестовые APK для Android.
 
-**Статус на 30 октября 2026: версия 0.12.0 готовится к публикации. APK в этом репозитории пока не опубликован.** Ссылка на загрузку появится в разделе [Releases](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases), когда файл будет доступен.
+**Версия 0.12.0 опубликована 30 октября 2026.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.12.0/DeenStep-Test-0.12.0.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.12.0).
 
-### Как скачать и установить после публикации
+### Как скачать и установить
 
 1. Открой раздел Releases на Android-устройстве и выбери нужную версию.
 2. В разделе Assets скачай файл `DeenStep-Test-0.12.0.apk`. Архивы «Source code» не являются приложением.
@@ -30,9 +30,9 @@ DeenStep помогает постепенно приучаться к ходь�
 
 DeenStep helps you build a walking habit gradually and learn in small steps. This repository is for Android test APK downloads.
 
-**Status as of October 30, 2026: version 0.12.0 is being prepared for publication. No APK has been published in this repository yet.** A download will appear under [Releases](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases) when the file is available.
+**Version 0.12.0 was published on October 30, 2026.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.12.0/DeenStep-Test-0.12.0.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.12.0).
 
-### Download and install after publication
+### Download and install
 
 1. Open Releases on your Android device and select the version.
 2. Under Assets, download `DeenStep-Test-0.12.0.apk`. “Source code” archives are not the app.
@@ -50,9 +50,9 @@ Downloading a public APK does not require a Google account, a GitHub account, or
 - Pedometer accuracy on a physical phone has not yet passed acceptance testing.
 - This APK is for Android. There is no iPhone/iPad build here.
 
-## Prepared APK / Подготовленный APK
+## Published APK / Опубликованный APK
 
-These details identify the prepared local build; they do not mean that its download has been published yet.
+These details identify the APK published in release v0.12.0. / Данные APK, опубликованного в версии v0.12.0.
 
 | Field / Поле | Value / Значение |
 | --- | --- |
