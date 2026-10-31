@@ -6,14 +6,16 @@
 
 DeenStep помогает постепенно приучаться к ходьбе и учиться небольшими шагами. Здесь доступны тестовые APK для Android.
 
-**Тестовая версия 0.15.0.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.15.0/DeenStep-Test-0.15.0.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.15.0).
+**Тестовая версия 0.16.0.** [Скачать APK для Android](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.16.0/DeenStep-Test-0.16.0.apk) · [Описание версии](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.16.0).
 
-### Что изменилось в 0.15.0
+### Что изменилось в 0.16.0
 
-- Общая лента **историй участников**: короткие начала, полный текст, реакции, жалобы и отзыв своей публикации. Псевдоним, заголовок и текст отправляются только по явной кнопке. После ручного одобрения история публична и доступна для чтения без аккаунта. Личный профиль автоматически не прикладывается.
-- **Вступление при первом запуске** объясняет программу на 40 дней перед анкетой. Его можно перечитать в справке.
-- Доработан **сценарий без исламского содержания**: прогулки и привычки доступны без наставлений и приглашений к изучению Корана.
-- **Сообщение о следующем обновлении** остаётся на главном экране до подтверждения. «Скачать обновление» открывает загрузку; «Хорошо, скачаю позже» сохраняет выбор для этой версии. Следующая версия снова покажет сообщение.
+- **Восемь офлайн-видео** и обложки встроены в приложение. Оригинальные ролики сохранены без повторного сжатия.
+- **Настройки → Видео** открывает библиотеку с учётом языка и выбранного содержания. Ролики с исламским содержанием показываются в соответствующем режиме.
+- **Карточки по программе** предлагают не больше одного видео в день. Просмотренные видео не предлагаются повторно автоматически; ручной повтор в библиотеке доступен.
+- **Плеер внутри приложения** запускается по нажатию, поддерживает паузу, перемотку и закрытие. Android «Назад» сначала закрывает плеер.
+
+Общие истории с ручной проверкой, вступление, выбор содержания и уведомления об обновлении сохранены.
 
 Обратная связь и добровольная статистика из 0.14.0 сохранены. Статистика выключена по умолчанию; после согласия передаются технический ID, версия, активное время и посещения пяти разделов. Имя, здоровье, религиозные настройки, координаты и тексты экранов не передаются. Отключение останавливает отправку и удаляет неотправленную очередь; ранее переданные записи остаются.
 
@@ -24,7 +26,7 @@ DeenStep помогает постепенно приучаться к ходь�
 ### Как скачать и установить
 
 1. Открой раздел [Releases](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases) на Android-устройстве и выбери версию.
-2. В разделе Assets скачай `DeenStep-Test-0.15.0.apk`. Архивы «Source code» не являются приложением.
+2. В разделе Assets скачай `DeenStep-Test-0.16.0.apk`. Архивы «Source code» не являются приложением.
 3. Открой скачанный APK. Если Android попросит, разреши установку из используемого браузера или приложения «Файлы».
 4. Подтверди установку в системном окне Android.
 
@@ -43,14 +45,16 @@ DeenStep помогает постепенно приучаться к ходь�
 
 DeenStep helps you build a walking habit gradually and learn in small steps. This repository provides Android test APK downloads.
 
-**Test version 0.15.0.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.15.0/DeenStep-Test-0.15.0.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.15.0).
+**Test version 0.16.0.** [Download the Android APK](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/download/v0.16.0/DeenStep-Test-0.16.0.apk) · [Release notes](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases/tag/v0.16.0).
 
-### What changed in 0.15.0
+### What changed in 0.16.0
 
-- A shared **Stories** feed with previews, full text, reactions, reports and withdrawal of your own publication. Alias, title and body are sent only after you explicitly submit. Once manually approved, a story is public and readable without an account. Your personal profile is not automatically attached.
-- A **first-launch introduction** explains the 40-day programme before setup and remains available in Help.
-- Improved the **experience without Islamic content**: walking and habits remain available without religious reminders or Quran-learning invitations.
-- A **notice for the next update** remains on the home screen until acknowledged. Download opens the existing update flow; “OK, I’ll download later” remembers that release. A newer release shows the notice again.
+- **Eight offline videos** and posters are bundled without recompressing the original files.
+- **Settings → Videos** opens a library filtered by language and the selected content mode.
+- **Programme cards** suggest at most one video per day. Watched videos are not suggested again automatically; manual replay remains available.
+- **The in-app player** starts only when tapped and supports pause, seeking and closing. Android Back closes the player first.
+
+Shared stories with manual review, programme introduction, content choices and update notices remain available.
 
 Feedback and optional usage statistics from 0.14.0 remain available. Statistics are off by default. With consent, they share a technical ID, version, active time and visits to five sections, without names, health data, religious preferences, coordinates or screen text. Turning them off stops sending and clears the unsent queue; it does not remove data already sent.
 
@@ -61,7 +65,7 @@ Settings also include a local technical TXT report and a Test vibration button. 
 ### Download and install
 
 1. Open [Releases](https://github.com/yssjf28dxj-cmyk/deenstep-releases/releases) on your Android device and choose the version.
-2. Under Assets, download `DeenStep-Test-0.15.0.apk`. “Source code” archives are not the app.
+2. Under Assets, download `DeenStep-Test-0.16.0.apk`. “Source code” archives are not the app.
 3. Open the downloaded APK. If Android asks, allow installation from the browser or Files app you are using.
 4. Confirm installation in the Android system dialog.
 
@@ -80,17 +84,17 @@ Downloading the public APK does not require a Google account, a GitHub account o
 
 | Field / Поле | Value / Значение |
 | --- | --- |
-| File / Файл | `DeenStep-Test-0.15.0.apk` |
-| Version name | `0.15.0-dev` |
-| Version code | `33` |
+| File / Файл | `DeenStep-Test-0.16.0.apk` |
+| Version name | `0.16.0-dev` |
+| Version code | `34` |
 | Application ID | `app.shag.walking_app.dev` |
 | Minimum Android | `7.0 (API 24)` |
-| Size / Размер | `55128941` |
+| Size / Размер | `65380889` |
 
 SHA-256:
 
 ```text
-725e1cb7bbfcb338ae3da507aaff421dff73807698b8be223a59cf416eb22e6a
+c63349013c802cd5ff41f537b5ec1533bbbda997c35d56d0bae43305d71a5bfb
 ```
 
 This repository contains public release information and Android binaries. App source code is maintained separately. Signing keys, user databases, feedback messages and usage statistics are not published here.
